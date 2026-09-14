@@ -74,6 +74,7 @@ tft-3.02-170x560-spi-axs15231b/                                # 仓库根（导
 | 外形 CAD（YDP302B003-V1） | [`docs/YDP302B003-V1.dwg`](./docs/YDP302B003-V1.dwg) |
 | 驱动 IC 数据手册（AXS15231B） | [`docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf`](./docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf) |
 | 本料号初始化序列 | 见示例 [`main/main.c`](./examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/main/main.c) 中 `lcd_init_cmds`（与 YDP302B001-V6 不同，请勿混用） |
+| 3.02 寸屏幕测试板 V1.1 | [`docs/3.02寸屏幕测试板V1.1.pdf`](./docs/3.02%E5%AF%B8%E5%B1%8F%E5%B9%95%E6%B5%8B%E8%AF%95%E6%9D%BFV1.1.pdf) |
 
 ### 示例工程
 

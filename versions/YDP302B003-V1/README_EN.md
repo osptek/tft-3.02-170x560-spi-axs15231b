@@ -74,6 +74,7 @@ tft-3.02-170x560-spi-axs15231b/                                # repo root (nav:
 | Outline CAD (YDP302B003-V1) | [`docs/YDP302B003-V1.dwg`](./docs/YDP302B003-V1.dwg) |
 | Driver IC datasheet (AXS15231B) | [`docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf`](./docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf) |
 | Init sequence for this SKU | See `lcd_init_cmds` in [`main/main.c`](./examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/main/main.c) (differs from YDP302B001-V6; do not mix) |
+| 3.02″ screen test board V1.1 | [`docs/3.02寸屏幕测试板V1.1.pdf`](./docs/3.02%E5%AF%B8%E5%B1%8F%E5%B9%95%E6%B5%8B%E8%AF%95%E6%9D%BFV1.1.pdf) |
 
 ### Samples
 

@@ -81,6 +81,7 @@ tft-3.02-170x560-spi-axs15231b/                                # repo root (nav:
 | Init sequence (text) | [`docs/3.02+15231.txt`](./docs/3.02+15231.txt) |
 | Init reference (C source) | [`docs/lcd.c`](./docs/lcd.c) |
 | 3.02″ adapter board | [`docs/3.02寸转接板.pdf`](./docs/3.02%E5%AF%B8%E8%BD%AC%E6%8E%A5%E6%9D%BF.pdf) |
+| 3.02″ screen test board V1.1 | [`docs/3.02寸屏幕测试板V1.1.pdf`](./docs/3.02%E5%AF%B8%E5%B1%8F%E5%B9%95%E6%B5%8B%E8%AF%95%E6%9D%BFV1.1.pdf) |
 
 ### Samples
 
