@@ -29,7 +29,7 @@
 
 OSPTEK **3.02 寸 170×560 TFT** 是一款 **SPI** 接口彩色显示模组，显示驱动与触摸均为 **AXS15231B**（电容触摸经 I2C）。适合条状 HMI、侧边信息条与窄条交互面板等场景。
 
-规格标识（仓库名）：`3.02-tft-170x560-spi-axs15231b`
+规格标识（仓库名）：`tft-3.02-170x560-spi-axs15231b`
 
 当前模组版本：**YDP302B003-V1**。外形与机械尺寸以 [`docs/YDP302B003-V1.dwg`](./docs/YDP302B003-V1.dwg) 为准。
 
@@ -50,12 +50,12 @@ OSPTEK **3.02 寸 170×560 TFT** 是一款 **SPI** 接口彩色显示模组，�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · AXS15231B SPI + LVGL8（bringup） | [`examples/esp32s3-3.02-tft-170x560-spi-axs15231b-bringup/`](./examples/esp32s3-3.02-tft-170x560-spi-axs15231b-bringup/) |
+| ESP32-S3 · AXS15231B SPI + LVGL8（bringup） | [`examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/`](./examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/) |
 
 ## 仓库结构
 
 ```text
-3.02-tft-170x560-spi-axs15231b/                                # 仓库根（导航见 ../../README.md）
+tft-3.02-170x560-spi-axs15231b/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── YDP302B003-V1/                                # 本料号完整资料
         ├── README.md
@@ -73,11 +73,11 @@ OSPTEK **3.02 寸 170×560 TFT** 是一款 **SPI** 接口彩色显示模组，�
 | ---- | ---- |
 | 外形 CAD（YDP302B003-V1） | [`docs/YDP302B003-V1.dwg`](./docs/YDP302B003-V1.dwg) |
 | 驱动 IC 数据手册（AXS15231B） | [`docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf`](./docs/AXS15231B_Datasheet_V0.9_20240221-客户版.pdf) |
-| 本料号初始化序列 | 见示例 [`main/main.c`](./examples/esp32s3-3.02-tft-170x560-spi-axs15231b-bringup/main/main.c) 中 `lcd_init_cmds`（与 YDP302B001-V6 不同，请勿混用） |
+| 本料号初始化序列 | 见示例 [`main/main.c`](./examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/main/main.c) 中 `lcd_init_cmds`（与 YDP302B001-V6 不同，请勿混用） |
 
 ### 示例工程
 
-- [ESP32-S3 AXS15231B SPI + LVGL8（bringup）](./examples/esp32s3-3.02-tft-170x560-spi-axs15231b-bringup/)
+- [ESP32-S3 AXS15231B SPI + LVGL8（bringup）](./examples/esp32s3-tft-3.02-170x560-spi-axs15231b-bringup/)
 
 ## 购买链接
 

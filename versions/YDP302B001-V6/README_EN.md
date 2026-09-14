@@ -31,7 +31,7 @@
 
 OSPTEK **3.02″ 170×560 TFT** is a **SPI** color display module. Display and capacitive touch are both driven by **AXS15231B** (touch over I2C). Suited to bar-style HMI and narrow side panels.
 
-Spec ID (repository name): `3.02-tft-170x560-spi-axs15231b`
+Spec ID (repository name): `tft-3.02-170x560-spi-axs15231b`
 
 Current module version: **YDP302B001-V6**. Electrical and mechanical details follow [`docs/YDP302B001-V6.pdf`](./docs/YDP302B001-V6.pdf).
 
@@ -59,7 +59,7 @@ Current module version: **YDP302B001-V6**. Electrical and mechanical details fol
 ## Repository layout
 
 ```text
-3.02-tft-170x560-spi-axs15231b/                                # repo root (nav: ../../README_EN.md)
+tft-3.02-170x560-spi-axs15231b/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP302B001-V6/                                # full materials for this part number
         ├── README.md

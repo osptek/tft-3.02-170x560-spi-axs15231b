@@ -30,7 +30,7 @@ This repository holds materials for the **3.02″ 170×560 TFT (SPI · AXS15231B
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `3.02-tft-170x560-spi-axs15231b`
+Repo id: `tft-3.02-170x560-spi-axs15231b`
 
 ---
 
