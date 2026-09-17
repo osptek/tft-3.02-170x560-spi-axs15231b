@@ -5,7 +5,7 @@ size: "3.02"
 panel: tft
 resolution: 170x560
 interface: [spi]
-shape: bar
+shape: rect
 
 versions:
   - id: YDP302B001-V6
