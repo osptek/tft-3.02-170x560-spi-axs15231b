@@ -19,6 +19,7 @@
 - [版本一览](#版本一览)
 - [YDP302B001-V6](#ydp302b001-v6)
 - [YDP302B003-V1](#ydp302b003-v1)
+- [YDP302BG001-V6](#ydp302bg001-v6)
 - [购买链接](#购买链接)
 - [技术支持](#技术支持)
 
@@ -40,6 +41,7 @@
 | ---- | ------ | ---- | -------- |
 | YDP302B001-V6 | <img alt="YDP302B001-V6" src="./versions/YDP302B001-V6/images/product.png" width="120" /> | [简介](#ydp302b001-v6) | [完整资料](./versions/YDP302B001-V6/) |
 | YDP302B003-V1 | — | [简介](#ydp302b003-v1) | [完整资料](./versions/YDP302B003-V1/) |
+| YDP302BG001-V6 | — | [简介](#ydp302bg001-v6) | [完整资料](./versions/YDP302BG001-V6/) |
 
 ---
 
@@ -58,6 +60,14 @@
 **说明：** 带触摸（AXS15231B）。外形见 CAD；示例含 ESP32-S3 SPI + LVGL8 bringup。
 
 完整产品页与示例：[versions/YDP302B003-V1/](./versions/YDP302B003-V1/)
+
+---
+
+## YDP302BG001-V6
+
+**说明：** 带触摸（AXS15231B）。模组外形 27.64×81.91×3.32 mm。
+
+完整产品页与规格书：[versions/YDP302BG001-V6/](./versions/YDP302BG001-V6/)
 
 ---
 

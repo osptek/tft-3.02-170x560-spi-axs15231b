@@ -19,6 +19,7 @@
 - [Versions](#versions)
 - [YDP302B001-V6](#ydp302b001-v6)
 - [YDP302B003-V1](#ydp302b003-v1)
+- [YDP302BG001-V6](#ydp302bg001-v6)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -40,6 +41,7 @@ Repo id: `tft-3.02-170x560-spi-axs15231b`
 | ------- | ----- | ------- | --------- |
 | YDP302B001-V6 | <img alt="YDP302B001-V6" src="./versions/YDP302B001-V6/images/product.png" width="120" /> | [Summary](#ydp302b001-v6) | [Full docs](./versions/YDP302B001-V6/) |
 | YDP302B003-V1 | — | [Summary](#ydp302b003-v1) | [Full docs](./versions/YDP302B003-V1/) |
+| YDP302BG001-V6 | — | [Summary](#ydp302bg001-v6) | [Full docs](./versions/YDP302BG001-V6/) |
 
 ---
 
@@ -58,6 +60,14 @@ Full product page, datasheets, and examples: [versions/YDP302B001-V6/](./version
 **Notes:** With touch (AXS15231B). Outline CAD included; ESP32-S3 SPI + LVGL8 bringup sample.
 
 Full product page and examples: [versions/YDP302B003-V1/](./versions/YDP302B003-V1/)
+
+---
+
+## YDP302BG001-V6
+
+**Notes:** With touch (AXS15231B). Module outline 27.64×81.91×3.32 mm.
+
+Full product page and datasheet: [versions/YDP302BG001-V6/](./versions/YDP302BG001-V6/)
 
 ---
 

@@ -16,3 +16,7 @@ versions:
     driver: AXS15231B
     touch: AXS15231B
     note: Outline CAD included; ESP32-S3 SPI + LVGL8 bringup sample
+  - id: YDP302BG001-V6
+    driver: AXS15231B
+    touch: AXS15231B
+    note: Module outline 27.64x81.91x3.32 mm
