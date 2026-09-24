@@ -41,7 +41,7 @@
 | ---- | ------ | ---- | -------- |
 | YDP302B001-V6 | <img alt="YDP302B001-V6" src="./versions/YDP302B001-V6/images/product.png" width="120" /> | [简介](#ydp302b001-v6) | [完整资料](./versions/YDP302B001-V6/) |
 | YDP302B003-V1 | — | [简介](#ydp302b003-v1) | [完整资料](./versions/YDP302B003-V1/) |
-| YDP302BG001-V6 | — | [简介](#ydp302bg001-v6) | [完整资料](./versions/YDP302BG001-V6/) |
+| YDP302BG001-V6 | <img alt="YDP302BG001-V6" src="./versions/YDP302BG001-V6/images/product.png" width="120" /> | [简介](#ydp302bg001-v6) | [完整资料](./versions/YDP302BG001-V6/) |
 
 ---
 
@@ -64,6 +64,8 @@
 ---
 
 ## YDP302BG001-V6
+
+<p align="center"><img alt="YDP302BG001-V6" src="./versions/YDP302BG001-V6/images/product.png" width="320" /></p>
 
 **说明：** 带触摸（AXS15231B）。模组外形 27.64×81.91×3.32 mm。
 

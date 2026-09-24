@@ -13,6 +13,8 @@
   <img alt="Driver: AXS15231B" src="https://img.shields.io/badge/Driver-AXS15231B-E7352C?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 3.02 inch 170×560 TFT SPI module (AXS15231B) product image" src="./images/product.png" width="640" /></p>
+
 ## Contents
 
 - [Overview](#overview)
